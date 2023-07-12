@@ -1,0 +1,3 @@
+SHARED_CONFIG_FILES = "C:/Users/yourUsername/.aws/config"
+SHARED_CREDENTIALS_FILES = "C:/Users/yourUsername/.aws/credentials"
+PROFILE = "name contained at C:/Users/yourUsername/.aws/config"
